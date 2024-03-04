@@ -1,0 +1,21 @@
+#container{
+    display: flex;
+    align-content:center;
+    position: relative;
+    top: 50px;
+    left: 30px;
+    
+}
+#total-price{
+   position: relative;
+   top: 50px;
+   left: 1000px;
+}
+.hero{
+    background-image: url(https://media.product.which.co.uk/prod/images/original/06f37bedaaf3-screen-casting.jpg);
+    background-size: cover;
+    height: 500px;}
+.box{
+    padding: 10px 10px ;
+    border: solid;
+}
